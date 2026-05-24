@@ -9,3 +9,5 @@ certs/*.crt
 certs/*.pem
 .env
 *.log
+
+venv/
